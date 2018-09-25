@@ -1,7 +1,13 @@
-{
+{"announcements":{
 "announcements":[
     
         {"title":"Announcement 1","body":"Description 1","edited_on":"2018-09-20T17:26:44.000Z"},
         {"title":"Scheduled Announce 2","body":"desc","edited_on":"2018-09-20T17:32:00.000Z"}
 ]
-}
+},
+"videos": {
+    "videos": [
+        {"title":"Video 1","description":"Description for video","video_url":"https://www.youtube.com/watch?v=CNodxp9Jy4A"},
+        {"title":"Scheduled Video 2","description":"Description of this video. Same video URL","video_url":"https://www.youtube.com/watch?v=CNodxp9Jy4A"}
+    ]
+}}
