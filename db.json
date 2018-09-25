@@ -1,10 +1,7 @@
 {
 "announcements":[
-    {"announcement":
-        {"title":"Announcement 1","body":"Description 1","edited_on":"2018-09-20T17:26:44.000Z"}
-    },
-    {"announcement":
+    
+        {"title":"Announcement 1","body":"Description 1","edited_on":"2018-09-20T17:26:44.000Z"},
         {"title":"Scheduled Announce 2","body":"desc","edited_on":"2018-09-20T17:32:00.000Z"}
-    }
 ]
 }
